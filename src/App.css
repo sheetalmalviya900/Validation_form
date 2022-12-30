@@ -1,0 +1,24 @@
+nav {
+    background-color: crimson;
+    border: 1px solid black;
+    height: 7vh;
+    text-align: center;
+    box-shadow: 0px 4px 2px 2px gray;
+}
+
+#signup {
+    font-size: 3vh;
+    margin-left: 1vw;
+    color: white;
+}
+
+#dashboard {
+    margin-left: 3vw;
+    font-size: 3vh;
+    color: white;
+}
+
+#signup:hover,
+#dashboard:hover {
+    color: black;
+}
